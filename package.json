@@ -14,6 +14,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "rita": "^1.1.51",
+    "salient": "^0.2.1",
     "twit": "^2.2.5"
   }
 }
