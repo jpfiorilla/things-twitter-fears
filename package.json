@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "fs": "0.0.1-security",
+    "node-emoji": "^1.5.0",
     "rita": "^1.1.51",
     "salient": "^0.2.1",
     "twit": "^2.2.5"
